@@ -1,3 +1,8 @@
+"Python Paint"
+"03/16/24"
+__author__ = "Harrison Beck"
+
+
 import pygame
 
 
